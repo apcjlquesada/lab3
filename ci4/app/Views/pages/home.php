@@ -1,1 +1,1 @@
-This is my home page
+Welcome to my Home Page! Joe Gene Q

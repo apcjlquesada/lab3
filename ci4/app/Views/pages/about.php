@@ -1,1 +1,1 @@
-This my about page - Joe Gene Q
+Welcome to my About Page! Joe Gene Q
