@@ -80,5 +80,6 @@ class News extends BaseController
             . view('news/success')
             . view('templates/footer');
     }
+
 	
 }
